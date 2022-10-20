@@ -1,0 +1,1 @@
+Python easy programming this assignment full of using string 
